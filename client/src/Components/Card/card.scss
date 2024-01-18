@@ -1,0 +1,29 @@
+.cardArea{
+    width: 100%;
+    color: white;
+    height: 10vh;
+    .cardBox{
+       
+        .cardText{
+
+            p{
+                color: rgb(126,106,74)
+            }
+            .text_card{
+                display: flex;
+                justify-content: center;
+
+                p{
+                    width: 100px;
+                    border-bottom: 1px dashed white;
+                }
+            
+            .iconPrice{
+                display: flex;
+                justify-content: center;
+                text-align: center;
+            }
+        }
+        }
+    }
+}

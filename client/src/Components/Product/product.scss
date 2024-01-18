@@ -1,0 +1,33 @@
+#product{
+    width: 100%;
+    height: 80vh;
+    background-image: url("https://preview.colorlib.com/theme/pulse/img/menu-bg.jpg");
+
+    .productArea{
+       
+        color: white;
+       .ourMenu{
+       
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+       } 
+       .titleTextCard{
+        .switch_card{
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+       }
+       .productCard{
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+       }
+    }
+}
